@@ -1,0 +1,22 @@
+{
+    "version": "3.6",
+    "description": "Secure file eraser",
+    "homepage": "https://www.gaijin.at/en/software/wipefile",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.gaijin.at/en/license-agreement-freeware"
+    },
+    "url": "https://www.gaijin.at/getit?id=wipefile&vk=4cZNn8_uHn2U2#/dl.7z",
+	"hash": "d6c9bb56797866e06f8619d5aca38309850cc808c3e5e4acf56de4d6da62f84a",
+    "bin": "WipeFile.exe",
+	"persist": [
+        "Configuration.xml",
+        "Settings.xml"
+    ],
+    "shortcuts": [
+        [
+            "WipeFile.exe",
+            "WipeFile"
+        ]
+    ]
+}
