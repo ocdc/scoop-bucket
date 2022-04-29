@@ -79,6 +79,7 @@ scoop install blankandsecure
 scoop install snap2html
 scoop install keepass1
 scoop install puloversmacrocreator
+scoop install alephnote
 
 # All below need to be moved to ocdc repo
 scoop bucket add wangzq_scoop-bucket https://github.com/wangzq/scoop-bucket
@@ -87,9 +88,6 @@ scoop install xrmtoolbox
 
 scoop bucket add kkzzhizhou_scoop-zapps https://github.com/kkzzhizhou/scoop-zapps
 scoop install Autoruns
-
-scoop bucket add urihcim_scoop-urihcim https://github.com/urihcim/scoop-urihcim
-scoop install alephnote
 
 scoop bucket add LuoHuiRu_ScoopBucket https://github.com/LuoHuiRu/ScoopBucket
 scoop install ClipboardFusion
