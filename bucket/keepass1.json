@@ -22,7 +22,7 @@
     ],
     "checkver": {
         "url": "https://keepass.info/update/version1x.txt",
-        "regex": "^KeePass#(\d{1,2}\.\d{1,2}\.\d{1,2}.\d{1,2})"
+        "regex": "^KeePass#(\\d{1,2}\\.\\d{1,2}\\.\\d{1,2}.\\d{1,2})"
     },
     "autoupdate": {
         "url": "https://downloads.sourceforge.net/project/keepass/KeePass%20$majorVersion.x/$version/KeePass-$version.zip"
