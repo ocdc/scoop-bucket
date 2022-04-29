@@ -78,6 +78,7 @@ scoop install badpeggy
 scoop install blankandsecure
 scoop install snap2html
 scoop install keepass1
+scoop install puloversmacrocreator
 
 # All below need to be moved to ocdc repo
 scoop bucket add wangzq_scoop-bucket https://github.com/wangzq/scoop-bucket
