@@ -2,7 +2,7 @@
 # ------------------------------------------------------------
 # Create (if required): adventure, keratin, lintalist, ps2exe-gui, robointern, sqldeveloper, textcrawler, datamodeler, adoptopenjdk
 # ------------------------------------------------------------
-# Create Installers: toad, oracle instant client, mobaxterm, cardexchange, visual studio
+# Create Installers: toad, oracle instant client, mobaxterm, cardexchange, visual studio, logparser
 # Configs: keypiranna, fast stone capture, service bus explorer
 # ------------------------------------------------------------
 # Apps no longer availible: hjsplit, instagiffer, paping
