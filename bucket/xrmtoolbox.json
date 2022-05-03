@@ -11,7 +11,7 @@
         [
             "XrmToolBox.exe",
             "XrmToolBox",
-			"/overridepath:%USERPROFILE%\\scoop\\apps\\xrmtoolbox\\config"
+            "/overridepath:%USERPROFILE%\\scoop\\apps\\xrmtoolbox\\current\\config"
         ]
     ],
     "checkver": {
