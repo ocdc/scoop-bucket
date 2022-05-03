@@ -81,11 +81,11 @@ scoop install keepass1
 scoop install puloversmacrocreator
 scoop install alephnote
 scoop install autoruns
+scoop install xrmtoolbox
 
 # All below need to be moved to ocdc repo
 scoop bucket add wangzq_scoop-bucket https://github.com/wangzq/scoop-bucket
 scoop install logparserstudio
-scoop install xrmtoolbox
 
 scoop bucket add LuoHuiRu_ScoopBucket https://github.com/LuoHuiRu/ScoopBucket
 scoop install ClipboardFusion
