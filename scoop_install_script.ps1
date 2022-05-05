@@ -23,7 +23,6 @@ scoop install advancedrenamer
 scoop install azuredatastudio
 scoop install azurestorageexplorer
 scoop install baretail
-scoop install beeftext
 scoop install bleachbit
 scoop install ccleaner
 scoop install cpu-z
@@ -41,7 +40,6 @@ scoop install pdfsam
 scoop install rclone-browser
 scoop install renamer
 scoop install revouninstaller
-#scoop install servicebusexplorer - Removed to add custom with config persist.
 scoop install shutter
 scoop install sharex
 scoop install wincdemu
@@ -84,6 +82,7 @@ scoop install autoruns
 scoop install xrmtoolbox
 scoop install servicebusexplorer-cp
 scoop install logparserstudio
+scoop install beeftext-ar
 
 scoop bucket add LuoHuiRu_ScoopBucket https://github.com/LuoHuiRu/ScoopBucket
 scoop install ClipboardFusion
