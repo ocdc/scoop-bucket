@@ -18,8 +18,8 @@
     ],
 	"post_install": [
 		"$shortcut = \"Beeftext.lnk\"",
-		"$source = \"$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\"",
-		"$destination = \"$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\"",
+		"$source = \"$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\\"",
+		"$destination = \"$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\\"",
 		"if (!(Test-Path \"$destination$shortcut\") -and (Test-Path \"$source$shortcut\")) {",
 		"    Copy-Item $source$shortcut $destination",
 		"}"
