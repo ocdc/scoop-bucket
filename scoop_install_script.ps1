@@ -83,12 +83,8 @@ scoop install xrmtoolbox
 scoop install servicebusexplorer-cp
 scoop install logparserstudio
 scoop install beeftext-ar
+scoop install githubdesktop
 
-scoop bucket add LuoHuiRu_ScoopBucket https://github.com/LuoHuiRu/ScoopBucket
-scoop install ClipboardFusion
-
-scoop bucket add cHolzberger_scoop-windows https://github.com/cHolzberger/scoop-windows
-scoop install fileseek
-
-scoop bucket add TheLastZombie_scoop-bucket https://github.com/TheLastZombie/scoop-bucket
-scoop install logfusion
+#scoop install clipboardfusion
+#scoop install fileseek
+#scoop install logfusion
