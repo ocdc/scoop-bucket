@@ -4,7 +4,7 @@
     "homepage": "https://robointern.tech/",
     "license": "Free",
 	"url": "https://robointern.tech/release/RoboIntern.zip",
-    "hash": "sha1:bcbc0710495866c96dc32c5824cad89723047b54"
+    "hash": "sha1:9af995ddd121ea1a33cd1d9af73733e706f04720",
     "bin": "RoboIntern.exe",
     "shortcuts": [
         [
