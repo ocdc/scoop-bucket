@@ -14,7 +14,7 @@
     ],
 	"persist": "config",
     "checkver": {
-        "url": "https://www.clipboardfusion.com/Download/",
+        "url": "https://robointern.tech/download.html",
         "regex": "version ([\\d.]+)"
     },
     "autoupdate": {
