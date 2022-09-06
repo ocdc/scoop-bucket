@@ -1,5 +1,5 @@
 {
-    "version": "7.01",
+    "version": "7.11",
     "description": "Secure file eraser",
     "homepage": "https://softwareok.com/?seite=Microsoft/BlankAndSecure",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://softwareok.com/?seite=faq-SoftwareOK&faq=16"
     },
     "url": "https://softwareok.com/Download/BlankAndSecure_x64.zip",
-    "hash": "bba77d51c24c674f6e03148f512fca8f4228041d06014c4b72d8f75c45ef0ce4",
+    "hash": "76baa86c1e81cb13cd90b4c1181d80ebd24d6540cdc409555bf4ba249c6253f7",
     "bin": "BlankAndSecure_x64.exe",
     "persist": "BlankAndSecure.ini",
     "checkver": {
