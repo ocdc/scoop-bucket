@@ -12,3 +12,5 @@ Some are from other sources but in the repo to ensure control. Credits below (wh
 * https://github.com/TheLastZombie/scoop-bucket
 * https://github.com/cHolzberger/scoop-windows
 * https://github.com/ACooper81/scoop-apps
+* https://github.com/naveed-patel/NScooP
+* https://github.com/hoilc/scoop-lemon
