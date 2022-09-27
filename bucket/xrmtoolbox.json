@@ -1,10 +1,10 @@
 {
-    "version": "1.2022.5.56",
+    "version": "1.2022.9.57",
     "description": "An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps",
     "homepage": "https://www.xrmtoolbox.com/",
     "license": "GPL-3.0",
-    "url": "https://github.com/MscrmTools/XrmToolBox/releases/download/v1.2022.5.56/XrmToolbox.zip",
-    "hash": "d921fcba544bf3bb99740d73c804dc0a54994d5576fc2c66a951ef995995e8c8",
+    "url": "https://github.com/MscrmTools/XrmToolBox/releases/download/v1.2022.9.57/XrmToolbox.zip",
+    "hash": "c219347f73f7e2072e1fa21cb27c08cfc5434d7e6694872615a973cb89676bd9",
     "bin": "XrmToolBox.exe",
     "persist": "config",
     "shortcuts": [
