@@ -2,9 +2,9 @@
     "homepage": "https://mikescher.github.io/AlephNote/",
     "description": "An extensible, lightweight desktop note client for multiple backends",
     "license": "MIT",
-    "version": "1.7.11",
-    "url": "https://github.com/Mikescher/AlephNote/releases/download/v1.7.11/AlephNote.zip",
-    "hash": "32c562b455ffc826320ee4261bb1970f381e47e3a20623cbf81f10dfb4a99f73",
+    "version": "1.7.14",
+    "url": "https://github.com/Mikescher/AlephNote/releases/download/v1.7.14/AlephNote.zip",
+    "hash": "32b9183c1c0d03fa93bd851780b7db6807e907d9691a70c26ddd4ce479562140",
     "bin": "AlephNote.exe",
     "shortcuts": [
         [
